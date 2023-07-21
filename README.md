@@ -2,11 +2,10 @@
 <h3 align="center">A quick learner, with a passion to apply Machine Learning expertise in various domain-specific applications. Love to code and solve problems.</h3>
 
 
-- 🥇 Currently Learning **Machine Learning,Java,Springboot,React.Js,REST API, Python**
 
-- 👨‍💻 My Projects available at [https://github.com/Avinash300802](https://github.com/Avinash300802)
+- 👨‍💻 My Projects available at [Github](https://github.com/Avinash300802)
 
-- 📝 personal blog [medium](https://medium.com/@rcavinash1234)
+- 📝 personal blog [Medium](https://medium.com/@rcavinash1234)
 
 - 🌏 How to reach me <a href="mailto:rcavinash1234@gmail.com">Gmail</a>
 
