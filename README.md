@@ -1,7 +1,7 @@
 <h1 align="center">Hey 🫡,this is Avinash R C</h1>
 <h3 align="center">A quick learner, with a passion to apply Machine Learning expertise in various domain-specific applications. Love to code and solve problems.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinash300802" alt="avinash300802" /></a> </p>
+
 
 - 🔭 I’m currently working on [CourseFlow](https://github.com/Avinash300802/CourseFlow)
 
@@ -16,6 +16,7 @@
 - 📄 Know about my experiences [https://resume.io/r/hJTgKGUwj](https://resume.io/r/hJTgKGUwj)
 
 - ⚡ fact **I am a gamer**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
