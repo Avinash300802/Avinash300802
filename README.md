@@ -8,7 +8,7 @@
 
 - 📝 personal blog [medium](https://medium.com/@rcavinash1234)
 
-- 🌏 How to reach me [gmail](rcavinash1234@gmail.com)
+- 🌏 How to reach me <a href="mailto:rcavinash1234@gmail.com">Gmail</a>
 
 - 📄 Know about my experiences [My Resume](https://resume.io/r/hJTgKGUwj)
 
