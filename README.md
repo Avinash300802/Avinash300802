@@ -13,7 +13,7 @@
 
 - ⚡ fact **I am a gamer💻**
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinash300802" alt="avinash300802" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
