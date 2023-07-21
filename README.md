@@ -2,17 +2,17 @@
 <h3 align="center">A quick learner, with a passion to apply Machine Learning expertise in various domain-specific applications. Love to code and solve problems.</h3>
 
 
-- 🥇 Currently Learning **ML,Java,Springboot,React.Js,REST api,Python**
+- 🥇 Currently Learning **Machine Learning,Java,Springboot,React.Js,REST API, Python**
 
 - 👨‍💻 My Projects available at [https://github.com/Avinash300802](https://github.com/Avinash300802)
 
-- 📝 personal blog [https://medium.com/@rcavinash1234](https://medium.com/@rcavinash1234)
+- 📝 personal blog [medium](https://medium.com/@rcavinash1234)
 
-- 🌏 How to reach me **rcavinash1234@gmail.com**
+- 🌏 How to reach me [gmail](rcavinash1234@gmail.com)
 
-- 📄 Know about my experiences [https://resume.io/r/hJTgKGUwj](https://resume.io/r/hJTgKGUwj)
+- 📄 Know about my experiences [My Resume](https://resume.io/r/hJTgKGUwj)
 
-- ⚡ fact **I am a gamer**
+- ⚡ fact **I am a gamer💻**
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinash300802" alt="avinash300802" /></a> </p>
 
