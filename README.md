@@ -5,7 +5,7 @@
 
 - 👨‍💻 My Projects available at [Github](https://github.com/Avinash300802)
 
-- 📝 personal blog [Medium](https://medium.com/@rcavinash1234)
+<!--- 📝 personal blog [Medium](https://medium.com/@rcavinash1234)-->
 
 - 🌏 How to reach me <a href="mailto:rcavinash1234@gmail.com">Gmail</a>
 
