@@ -19,10 +19,10 @@
 <p align="left">
 <a href="https://twitter.com/cyber_warrior30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyber_warrior30" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/avinash-r-c-378946216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avinash-r-c-378946216/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/avinashrc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/avinashrc" height="30" width="40" /></a>
+<a href="[https://kaggle.com/https://www.kaggle.com/avinashrc](https://www.kaggle.com/avinashrc)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/avinashrc" height="30" width="40" /></a>
 <a href="https://instagram.com/cyber_warrior10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyber_warrior10" height="30" width="40" /></a>
   
-<!--<a href="https://www.codechef.com/users/tech_key30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tech_key30" height="30" width="40" /></a>-->
+<!--<a href="https://www.codechef.com/users/tech_key30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tech_key30" hkeight="30" width="40" /></a>-->
   
 <!--<a href="https://www.hackerrank.com/rcavinash1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rcavinash1234" height="30" width="40" /></a>-->
   
