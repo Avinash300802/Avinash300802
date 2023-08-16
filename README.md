@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [My Resume](https://resume.io/r/hJTgKGUwj)
 
-- check out my portfolio : [portfolio](https://avinash300802.github.io/portfolio/)
+- ⚙️ check out my portfolio : [portfolio](https://avinash300802.github.io/portfolio/)
 
 - ⚡ fact **I am a gamer💻**
   
