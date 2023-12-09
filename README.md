@@ -1,4 +1,4 @@
-<h1 align="center">Hey 🫡,this is Avinash R C</h1>
+<h1 align="center">Hey...this is Avinash R C</h1>
 <h3 align="center">A quick learner, with a passion to apply Machine Learning expertise in various domain-specific applications. Love to code and solve problems.</h3>
 
 
@@ -12,6 +12,8 @@
 - 📄 Know about my experiences [My Resume](https://resume.io/r/hJTgKGUwj)
 
 - ⚙️ check out my portfolio : [portfolio](https://avinash300802.github.io/portfolio/)
+
+-  💯 recent project on full stack dev -> take a look : [sneak peek](https://www.loom.com/share/39e7690edb644de89c0ac9328a85b76e?sid=ec8128be-0ffa-4967-891c-9787fbcfe35a)
 
 - ⚡ fact **I am a gamer💻**
   
